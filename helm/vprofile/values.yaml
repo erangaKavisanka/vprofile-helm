@@ -1,7 +1,7 @@
 defaultUser: guest
 app:
   image: 878598436554.dkr.ecr.us-east-1.amazonaws.com/vprofileappimage2
-  tag: 36eae21
+  tag: dd4769a
   replicas: 1
   containerPort: 8080
   servicePort: 8080
