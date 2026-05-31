@@ -32,7 +32,7 @@ initcontainers:
     - -c
 ingress:
   enabled: true
-  host: vprofile.example.com
+  host: vprofile.eranga-devops.online
   servicePort: 8080
 secrets:
   dbPassword: vprodbpass
